@@ -1,8 +1,4 @@
-
-
 <div id=view-main>
-
-
 <div id=readercontainer>
  <div class="list-box" style="border:1px solid #007ff;color:#000000;font-family:Helvetica, 'Microsoft Yahei', 微软雅黑, Arial, sans-serif;font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:auto;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;-webkit-text-stroke-width:0px;"><div class="list-box-heading" style="font-weight:bold;background-color:#007fff;"><a style="color:#ffffff;padding:5px;display:block;outline:0px;text-decoration:none;background-color:#007fff;">系统基础库</a></div>
 <div class="list-box-inner-wrap" style="position:relative;height:auto;overflow:hidden;display:block;"><div class="list-box-inner" style="border-top-width:1px;border-top-style:solid;border-top-color:#007fff;"><div class="list-box" style="border:1px solid #79bcff;"><div class="list-box-heading" style="font-weight:bold;background-color:#79bcff;"><a style="color:#ffffff;padding:5px;display:block;outline:0px;text-decoration:none;background-color:#79bcff;">Category/Util</a></div>
